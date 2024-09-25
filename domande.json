@@ -1,0 +1,22 @@
+{
+    "Domande" : [
+        {
+            "Domanda1" : "Come ti chiami? " ,
+            "Risposta1" : "Giura " ,
+            "Risposta2" : "Zaccagnino" ,
+            "Risposta3" : "Zizzi" ,
+            "Risposta4" : "Gino",
+            "RispostaCorretta" : "Zizzi" 
+        },
+
+        {
+            "Domanda1" : "Gioco preferito? " ,
+            "Risposta1" : "Salva il mondo " ,
+            "Risposta2" : "Creativa" ,
+            "Risposta3" : "Battaglia Reale" ,
+            "Risposta4" : "FORTNITE",
+            "RispostaCorretta" : "Salva il mondo" 
+        }
+
+    ]
+}
