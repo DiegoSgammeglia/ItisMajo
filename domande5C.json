@@ -1,0 +1,26 @@
+{
+  "domande": [
+    {
+        "id": 1,
+        "testo": "Qual è la capitale della Francia?", 
+        "categoria": "Geografia",
+        "difficoltà": "Facile" ,
+        "risposta1" : "Parigi",
+        "risposta2": "Madrid",
+        "risposta3": "Lione",
+        "risposta4": "Marsiglia",
+        "risposta_CORRETTA": "Parigi"
+    },
+    {
+        "id": 2,
+        "testo": "Qual è la capitale della Spagna?", 
+        "categoria": "Geografia",
+        "difficoltà": "Facile" ,
+        "risposta1" :"Parigi",
+        "risposta2":"Madrid",
+        "risposta3":"Lione",
+        "risposta4":"Marsiglia",
+        "risposta_CORRETTA":"Madrid"
+    }
+ ]
+}
