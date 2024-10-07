@@ -1,21 +1,30 @@
 {
     "Domande" : [
         {
-            "Domanda1" : "Come ti chiami? " ,
-            "Risposta1" : "Giura " ,
-            "Risposta2" : "Zaccagnino" ,
-            "Risposta3" : "Zizzi" ,
-            "Risposta4" : "Gino",
-            "RispostaCorretta" : "Zizzi" 
+            "Domanda1" : "Cosa si intende per script kiddy? " ,
+            "Risposta1" : "Tipologia di cybercriminali che hanno poca o nessuna abilità e che utilizzano applicativi trovati su internet " ,
+            "Risposta2" : "Tipologia di cybercriminali che hanno grandi abilità e che utilizzano applicativi trovati su internet" ,
+            "Risposta3" : "Tipologia di cybercriminali che hanno poca o nessuna abilità ma utilizzano applicativi sviluppati da loro" ,
+            "Risposta4" : "Tipologia di cybercriminali che hanno grandi abilità ma utilizzano applicativi sviluppati da loro",
+            "RispostaCorretta" : "Tipologia di cybercriminali che hanno poca o nessuna abilità e che utilizzano applicativi trovati su internet" 
         },
 
         {
-            "Domanda1" : "Gioco preferito? " ,
-            "Risposta1" : "Salva il mondo " ,
-            "Risposta2" : "Creativa" ,
-            "Risposta3" : "Battaglia Reale" ,
+            "Domanda1" : "Cosa si intende per Hacktivist? " ,
+            "Risposta1" : "un gruppo hacker" ,
+            "Risposta2" : "dei gruppi di hacker che fanno dichiarazioni politiche su questioni che interessano a loro" ,
+            "Risposta3" : "hacker politici" ,
             "Risposta4" : "FORTNITE",
-            "RispostaCorretta" : "Salva il mondo" 
+            "RispostaCorretta" : "dei gruppi di hacker che fanno dichiarazioni politiche su questioni che interessano a loro" 
+        },
+
+        {
+            "Domanda1" : "Cosa si intende per hacker sponsorizzati dallo stato? " ,
+            "Risposta1" : "una squadra di calcio" ,
+            "Risposta2" : "Gonzalo Higuain morto di fame",
+            "Risposta3" : "agressori che raccolgono informazioni per conto del loro governo" ,
+            "Risposta4" : "un team di brawl stars",
+            "RispostaCorretta" : "agressori che raccolgono informazioni per conto del loro governo"  
         }
 
     ]
